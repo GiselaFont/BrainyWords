@@ -457,7 +457,7 @@
                         android:layout_alignStart="@+id/mobile_truck"
                         android:background="@null"
                         android:onClick="playSound"
-                        android:tag="Outdoors/beach/creatures/sounds/05seagulls.mp3" />
+                        android:tag="xtra/seagull.mp3" />
 
                     <Button
                         android:id="@+id/forkliftz"
@@ -480,7 +480,7 @@
                         android:layout_toRightOf="@+id/mobile_truck"
                         android:background="@null"
                         android:onClick="playSound"
-                        android:tag="Outdoors/beach/creatures/sounds/06pelicans_.mp3" />
+                        android:tag="xtra/pelican.mp3" />
 
                     <Button
                         android:id="@+id/girl_tablet"
@@ -892,7 +892,7 @@
                     android:layout_toRightOf="@+id/guitar"
                     android:background="@null"
                     android:onClick="playSound"
-                    android:tag="People/people/girls/sounds/08girl_reading_a_book.mp3" />
+                    android:tag="xtra/someone_reading_an_invisible_book.mp3" />
 
                 <Button
                     android:id="@+id/tree4"
@@ -4365,7 +4365,7 @@
 
                     <Button
                         android:onClick="playSound"
-                        android:tag="Outdoors/beach/creatures/sounds/05seagulls.mp3"
+                        android:tag="xtra/seagull.mp3"
                         android:background="@null"
                         android:id="@+id/sea_gulls2"
                         android:layout_height="40dp"
@@ -4458,7 +4458,7 @@
 
                     <Button
                         android:onClick="playSound"
-                        android:tag="Outdoors/beach/creatures/sounds/05seagulls.mp3"
+                        android:tag="xtra/seagull.mp3"
                         android:background="@null"
                         android:id="@+id/seagulls10"
                         android:layout_width="40dp"
